@@ -1,6 +1,6 @@
 <h1>WPapi - WordPress API Automation</h1>
 
-<p>WPapi is a Python class that provides automation for interacting with the WordPress REST API. It allows you to create new users, upload media files, and create posts programmatically, making it a powerful tool for automating WordPress tasks.</p>
+<p>WPapi is a Python class that provides automation for interacting with the WordPress REST API using Basic Authentication. It allows you to create new users, upload media files, and create posts programmatically.</p>
 
 <h2>Prerequisites</h2>
 
@@ -12,9 +12,6 @@
   <li>Base64 library (<code>base64</code>) for encoding credentials</li>
 </ul>
 
-<p>You can install the required libraries using the following command:</p>
-
-<pre><code>pip install requests</code></pre>
 
 <h2>Getting Started</h2>
 
